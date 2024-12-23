@@ -103,7 +103,7 @@
 
 .fr-view table td.fr-highlighted,
 .fr-view table th.fr-highlighted {
-  border: 1px double red;
+  border: 1px double #ff0000;
 }
 
 .fr-view table td.fr-thick,
